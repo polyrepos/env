@@ -4,6 +4,7 @@
   "type": "module",
   "polyCopy": {
     "@polyrepo/template-bun": [
+      "LICENSE",
       ".gitignore",
       "biome.json",
       ".husky",
