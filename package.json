@@ -4,6 +4,7 @@
   "type": "module",
   "polyCopy": {
     "@polyrepo/template-bun": [
+      ".github",
       "LICENSE",
       ".gitignore",
       "biome.json",
@@ -16,7 +17,7 @@
     "@types/bun": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.5.3"
   },
   "dependencies": {
     "dotenv": "^16.4.5"
