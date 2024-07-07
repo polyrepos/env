@@ -1,9 +1,11 @@
 {
   "name": "@polyrepo/env",
+  "version": "1.0.0",
+  "private": false,
   "module": "src/index.ts",
   "type": "module",
   "polyCopy": {
-    "@polyrepo/template-bun": [
+    "@polyrepo/template-base": [
       ".github",
       "LICENSE",
       ".gitignore",
@@ -21,6 +23,5 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5"
-  },
-  "version": "1.0.0"
+  }
 }
