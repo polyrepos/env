@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/polyrepos/env/compare/v1.0.2...v1.0.3) (2024-07-07)
+
+
+### Bug Fixes
+
+* update template ([b4c62b9](https://github.com/polyrepos/env/commit/b4c62b9712a8f9f0f499ede9b8bbf959f091a909))
+
 ## [1.0.2](https://github.com/polyrepos/env/compare/v1.0.1...v1.0.2) (2024-07-07)
 
 
