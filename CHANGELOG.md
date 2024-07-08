@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/polyrepos/env/compare/v1.0.4...v1.0.5) (2024-07-08)
+
+
+### Bug Fixes
+
+* update reamde ([38c226d](https://github.com/polyrepos/env/commit/38c226d0e7a3d9d2a02123baf78b3236e83d586c))
+
 ## [1.0.4](https://github.com/polyrepos/env/compare/v1.0.3...v1.0.4) (2024-07-07)
 
 
